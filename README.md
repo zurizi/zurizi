@@ -1,6 +1,6 @@
 # Hey 👋, I'm Zulham
 
-[![Email](https://img.shields.io/badge/Email-muhzulham25%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:muhzulham25@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=zurizi&color=blue)
 [![GitHub](https://img.shields.io/badge/GitHub-zurizi-gray?style=flat&logo=github)](https://github.com/zurizi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/alfrzlhm/)
 
@@ -40,14 +40,6 @@ I am a **Web Developer** focused on building innovative and efficient digital so
 - 📊 Data Scraping & Preprocessing
 - 🤖 Machine Learning
 - 🔍 SEO Optimization
-
----
-
-### 📊 GitHub Stats
-![Zulham's GitHub stats](https://github-readme-stats.vercel.app/api?username=zurizi&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zurizi&layout=compact&theme=radical)
-
-![Profile Views](https://komarev.com/ghpvc/?username=zurizi&color=blue)
 
 ---
 
