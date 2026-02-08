@@ -1,19 +1,54 @@
-## Hi, I'm Zulham! 👋  
+# Hey 👋, I'm Zulham
 
-### 🚀 About Me  
-I am a Digital Business graduate and a passionate front-end web developer specializing in UI design, web development, and data analysis, with a strong drive to create innovative and impactful solutions.
-
----
-
-### 🔍 Most Used Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zurizi&layout=compact)  
+[![Email](https://img.shields.io/badge/Email-muhzulham25%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:muhzulham25@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-zurizi-gray?style=flat&logo=github)](https://github.com/zurizi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/alfrzlhm/)
 
 ---
 
-### 🛠️ Technologies Mostly I Use   
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white) ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00C58E?logo=nuxt.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+### 💡 About Me
+I am a **Web Developer** focused on building innovative and efficient digital solutions. I have experience designing real-time data platforms and creating responsive, intuitive interfaces to support urban data digitalization. I am a fast learner with a strong interest in the intersection of web technology and data science.
 
 ---
 
-### 🔗 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-zulham-alfarizi/)
+### 🛠️ Tech Stack
+
+**Programming Languages**
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2300758f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Frontend & Frameworks**
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Backend, CMS & Automation**
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Selenium](https://img.shields.io/badge/-selenium-%2343B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+**Data Science & Analysis**
+- 📊 Data Scraping & Preprocessing
+- 🤖 Machine Learning
+- 🔍 SEO Optimization
+
+---
+
+### 📊 GitHub Stats
+![Zulham's GitHub stats](https://github-readme-stats.vercel.app/api?username=zurizi&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zurizi&layout=compact&theme=radical)
+
+![Profile Views](https://komarev.com/ghpvc/?username=zurizi&color=blue)
+
+---
+
+🔗 **Connect with me on LinkedIn:** [linkedin.com/in/alfrzlhm/](https://www.linkedin.com/in/alfrzlhm/)
